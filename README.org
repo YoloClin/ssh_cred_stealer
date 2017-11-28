@@ -1,0 +1,2 @@
+* SSH Cred Stealer
+Dumps SSH attempts to stdout
